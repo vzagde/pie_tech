@@ -1,0 +1,288 @@
+[14-Jul-2017 11:10:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:10:48 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:10:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:11:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:11:27 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:12:23 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:12:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:12:44 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:12:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:13:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:13:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:13:40 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:13:45 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:13:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:14:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:08 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:14 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:18 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:32 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:35 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:42 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:17:50 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:18:15 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:18:21 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:37:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:37:28 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:38:24 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:38:26 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:39:09 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:39:58 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[14-Jul-2017 11:42:37 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[09-Aug-2017 08:08:51 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[09-Aug-2017 08:08:54 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[09-Aug-2017 08:08:56 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
+[09-Aug-2017 08:08:59 Etc/GMT] PHP Fatal error:  Uncaught exception 'Exception' with message ''debug_mode' is set to 'true', but the file application//logs/hybridauth.log in 'debug_file' does not exit.' in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php:18
+Stack trace:
+#0 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(91): Hybrid_Logger->__construct()
+#1 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Auth.php(39): Hybrid_Auth::initialize(Array)
+#2 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/libraries/HybridAuthLib.php(14): Hybrid_Auth->__construct(Array)
+#3 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(1095): HybridAuthLib->__construct(Array)
+#4 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/system/core/Loader.php(975): CI_Loader->_ci_init_class('HybridAuthLib', '', NULL, NULL)
+#5 /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/s in /home/leadfxx1/public_html/kreaserv-tech.com/ci_setup/application/third_party/hybridauth/Hybrid/Logger.php on line 18
